@@ -1,0 +1,26 @@
+{
+  "name": "loiosh-bot",
+  "version": "1.0.0",
+  "description": "A bot that makes pithy, sarcastic comments",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "tape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugeneZ/loiosh-bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Eugene Zaretskiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EugeneZ/loiosh-bot/issues"
+  },
+  "homepage": "https://github.com/EugeneZ/loiosh-bot#readme",
+  "dependencies": {
+    "botkit": "^0.4.9"
+  }
+}
